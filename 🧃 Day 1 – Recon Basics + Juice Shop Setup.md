@@ -37,3 +37,16 @@ docker run -d -p 3000:3000 bkimminich/juice-shop
 [![Installed Tools and Docker Versions](images/day01-tools-version.png)](images/day01-tools-version.png)
 `Juice Shop site`
 [![Juice Shop Running in Docker](images/day01-juice-shop-running.png)](images/day01-juice-shop-running.png)
+
+
+## 🧱 Struggles & Errors Faced Today
+
+### 🐳 1. Docker Installation Failed — VM Disk Space Issue
+
+- ❌ **Problem:** I got stuck trying to install Docker on my Kali Linux VM — the installation either failed silently or didn't complete.
+- 🔍 **Root Cause:** My VM had **less than 25 GB** of allocated disk space, which is insufficient for Docker images like Juice Shop.
+- 💡 **Fix:** Increased my virtual disk allocation to **50 GB**, then reinstalled Docker successfully.
+
+> 🔁 **Lesson Learned:** If you're working with Docker and large labs, always make sure your Kali VM has **greater 25**. Docker needs enough room for images, containers, and system dependencies.
+
+---
