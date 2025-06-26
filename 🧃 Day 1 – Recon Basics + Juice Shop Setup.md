@@ -33,7 +33,7 @@ docker run -d -p 3000:3000 bkimminich/juice-shop
 - `Juice Shop is a fully featured real-world vulnerable web app — perfect for daily practice
 
 ## 📷 Screenshots
-
+`Installed Tools and Docker Versions`
 [![Installed Tools and Docker Versions](images/day01-tools-version.png)](images/day01-tools-version.png)
-
+`Juice Shop site`
 [![Juice Shop Running in Docker](images/day01-juice-shop-running.png)](images/day01-juice-shop-running.png)
