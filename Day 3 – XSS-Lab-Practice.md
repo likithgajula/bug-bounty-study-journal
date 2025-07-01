@@ -1,4 +1,4 @@
-# 🔥 Day 3 – XSS Lab Practice (Reflected, Stored, DOM) + Burp Repeater
+# 💉 Day 3 – XSS Lab Practice (Reflected, Stored, DOM) + Burp Repeater
 
 ## ✅ What I Did Today
 
