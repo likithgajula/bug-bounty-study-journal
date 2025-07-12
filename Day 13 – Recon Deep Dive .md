@@ -47,7 +47,7 @@ python3 paramspider.py -d example.com
 ### ⚙️ Arjun
 **What it does:** Actively probes endpoints with a smart wordlist to discover hidden parameters.
 <p><b>Workflow followed:</b></p>
-<p>1.Created a local Flask server:</p>
+<p>1.Created a local Flask server:(save this python script and run in another terminal, so the arjun tool could recognise it)</p>
 
 ```python 
 from flask import Flask
@@ -87,13 +87,14 @@ arjun -u http://127.0.0.1:5000/
 | Arjun       | GET param fuzzing (dynamic analysis) | ✅ Practiced on local & remote |
 | Param Miner | Hidden param discovery via Burp      | ✅ Explored inside Burp Suite  |
 ### ⚠️ Struggles Overcome
-✅ Bypassed environment restrictions during ParamSpider installation.
-✅ Learned how some tools behave differently on local vs. public targets.
-✅ Solidified understanding of the parameter fuzzing logic used by Arjun and similar tools.
+<p>✅ Bypassed environment restrictions during ParamSpider installation.</p>
+<p>✅ Learned how some tools behave differently on local vs. public targets.</p>
+<p>✅ Solidified understanding of the parameter fuzzing logic used by Arjun and similar tools.</p>
+
 ### 📸 Screenshots
-✅ waybackurls demo result
-✅ paramspider, arjun, and other tools installed successfully
-(Uploaded in the repo's /images/ folder)
+[![✅ waybackurls demo result](images/day13-waybackurls.png)](images/day13-waybackurls.png)
+[![✅ ParamSpider install screenshot](images/day13-paramspider.png)](images/day13-paramspider.png) 
+[![✅ Arjun Tool screenshot](images/day13-arjun.png)](images/day13-arjun.png)
 
 
 
