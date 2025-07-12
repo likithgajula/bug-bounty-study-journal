@@ -30,7 +30,7 @@ These tools help in identifying hidden parameters that may lead to sensitive acc
  ```bash
   pip install -r requirements.txt --break-system-packages
 ```
-- **Exact commands I used:** (directly copy and paste it into the terminal)
+- **Exact commands I used:** ( copied and pasted directly into the terminal)
 ```bash
 git clone https://github.com/devanshbatham/ParamSpider.git
 cd ParamSpider
@@ -74,7 +74,7 @@ arjun -u http://127.0.0.1:5000/
 - URL path & param brute forcing
 - Simple and intuitive to use directly from Burp’s context menu → Guess Parameters
  [Param Miner Tool Demo](https://youtu.be/IYk7-xvOMOo?si=5BJcx6MP2qZbp_w2)
-💡 Learned that Burp’s Param Miner is great for edge cases that ParamSpider/Arjun might miss
+<p>💡 Learned that Burp’s Param Miner is great for edge cases that ParamSpider/Arjun might miss</p>
 
 ---
 **✅Summary**
