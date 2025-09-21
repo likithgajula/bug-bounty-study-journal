@@ -75,7 +75,7 @@ Let’s build, break, learn, and grow **together**.
 ## 🔗 Connect with Me
 
 - 🧠 LinkedIn: [www.linkedin.com/in/likithgajula]
-- 🌐 Blog (coming soon)
+- 🌐 Blog: [https://medium.com/@likithgajula]
 
 ---
 
