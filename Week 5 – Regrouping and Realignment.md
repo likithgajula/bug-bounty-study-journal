@@ -2,8 +2,7 @@
 
 > _"Progress is not always linear. What matters is showing up again."_
 
-### 📅 Week Duration:
-**July 27 – August 2, 2025**
+
 
 ---
 
